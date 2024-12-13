@@ -1,0 +1,11 @@
+{
+  "type": "unusualprehistory:cultivator",
+  "ingredients": [
+    {
+      "item": "peculiarpredators:yuty_flask"
+    }
+  ],
+  "output": {
+    "item": "peculiarpredators:yuty_egg"
+  }
+}

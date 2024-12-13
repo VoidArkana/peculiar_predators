@@ -1,0 +1,11 @@
+{
+  "type": "unusualprehistory:cultivator",
+  "ingredients": [
+    {
+      "item": "peculiarpredators:shasta_flask"
+    }
+  ],
+  "output": {
+    "item": "peculiarpredators:shasta_embryo"
+  }
+}

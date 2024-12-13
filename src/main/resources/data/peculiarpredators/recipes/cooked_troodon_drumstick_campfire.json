@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "peculiarpredators:raw_troodon_drumstick"
+  },
+  "result": "peculiarpredators:cooked_troodon_drumstick",
+  "experience": 0.35,
+  "cookingtime": 600
+}

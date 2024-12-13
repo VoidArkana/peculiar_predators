@@ -1,0 +1,9 @@
+{
+  "type": "unusualprehistory:incubating",
+  "ingredients": [
+    {
+      "item": "peculiarpredators:shasta_embryo"
+    }
+  ],
+  "output": "peculiarpredators:baby_shasta"
+}

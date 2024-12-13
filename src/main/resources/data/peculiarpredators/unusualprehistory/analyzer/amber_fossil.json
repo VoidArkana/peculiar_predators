@@ -1,0 +1,13 @@
+{
+  "input": ["unusualprehistory:amber_fossil"],
+  "entries": [
+    {
+      "weight": 15,
+      "item": "peculiarpredators:troodon_flask"
+    },
+    {
+      "weight": 15,
+      "item": "peculiarpredators:yuty_flask"
+    }
+  ]
+}

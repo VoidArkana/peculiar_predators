@@ -1,0 +1,31 @@
+{
+  "text": "troodon.txt",
+  "title": "  Troodon",
+  "page_to_go": "unusualprehistory:dinosaurs",
+  "entity_renders": [
+    {
+      "entity": "peculiarpredators:troodon",
+      "x": 105,
+      "y": 95,
+      "page" : 0,
+      "scale": 1.5,
+      "rot_x": 30,
+      "rot_y": 225,
+      "rot_z": 0,
+      "follow_cursor": false
+    }
+  ],
+  "entity_button":[
+    {
+      "entity": "peculiarpredators:troodon",
+      "x": 290,
+      "y": 80,
+      "page" : 0,
+      "scale": 1.2,
+      "entity_scale": 1,
+      "offset_x": 1,
+      "offset_y": -3,
+      "hover_text": "Troodon"
+    }
+  ]
+}

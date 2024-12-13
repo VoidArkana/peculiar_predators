@@ -1,0 +1,67 @@
+{
+  "variants": {
+    "eggs=1,hatch=0": [
+      {
+        "model": "peculiarpredators:block/eggs/troodon_eggs"
+      }
+    ],
+    "eggs=1,hatch=1": [
+      {
+        "model": "peculiarpredators:block/eggs/slightly_cracked_troodon_eggs"
+      }
+    ],
+    "eggs=1,hatch=2": [
+      {
+        "model": "peculiarpredators:block/eggs/very_cracked_troodon_eggs"
+      }
+
+    ],
+    "eggs=2,hatch=0": [
+      {
+        "model": "peculiarpredators:block/eggs/two_troodon_eggs"
+      }
+    ],
+    "eggs=2,hatch=1": [
+      {
+        "model": "peculiarpredators:block/eggs/two_slightly_cracked_troodon_eggs"
+      }
+    ],
+    "eggs=2,hatch=2": [
+      {
+        "model": "peculiarpredators:block/eggs/two_very_cracked_troodon_eggs"
+      }
+    ],
+
+    "eggs=3,hatch=0": [
+      {
+        "model": "peculiarpredators:block/eggs/three_troodon_eggs"
+      }
+    ],
+    "eggs=3,hatch=1": [
+      {
+        "model": "peculiarpredators:block/eggs/three_slightly_cracked_troodon_eggs"
+      }
+    ],
+    "eggs=3,hatch=2": [
+      {
+        "model": "peculiarpredators:block/eggs/three_very_cracked_troodon_eggs"
+      }
+    ],
+
+    "eggs=4,hatch=0": [
+      {
+        "model": "peculiarpredators:block/eggs/four_troodon_eggs"
+      }
+    ],
+    "eggs=4,hatch=1": [
+      {
+        "model": "peculiarpredators:block/eggs/four_slightly_cracked_troodon_eggs"
+      }
+    ],
+    "eggs=4,hatch=2": [
+      {
+        "model": "peculiarpredators:block/eggs/four_very_cracked_troodon_eggs"
+      }
+    ]
+  }
+}

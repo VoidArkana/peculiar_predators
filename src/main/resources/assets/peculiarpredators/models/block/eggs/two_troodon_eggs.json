@@ -1,0 +1,7 @@
+{
+  "parent": "peculiarpredators:block/troodon_egg_2",
+  "textures": {
+    "block": "peculiarpredators:block/troodon_eggs",
+    "item": "peculiarpredators:item/troodon_egg"
+  }
+}

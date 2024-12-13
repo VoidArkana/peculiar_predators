@@ -1,0 +1,7 @@
+{
+  "parent": "peculiarpredators:block/yuty_egg_base",
+  "textures": {
+    "block": "peculiarpredators:block/yuty_egg",
+    "item": "peculiarpredators:item/yuty_egg"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "text": "yuty.txt",
+  "title": "   Yutyrannus",
+  "page_to_go": "unusualprehistory:dinosaurs",
+  "entity_renders": [
+    {
+      "entity": "peculiarpredators:yuty",
+      "x": 110,
+      "y": 105,
+      "page" : 0,
+      "scale": 0.5,
+      "rot_x": 30,
+      "rot_y": 225,
+      "rot_z": 0,
+      "follow_cursor": false
+    }
+  ],
+  "entity_button":[
+    {
+      "entity": "peculiarpredators:yuty",
+      "x": 290,
+      "y": 40,
+      "page" : 0,
+      "scale": 1.2,
+      "entity_scale": 0.3,
+      "offset_x": -10,
+      "offset_y": -13,
+      "hover_text": "Yutyrannus"
+    }
+  ]
+}

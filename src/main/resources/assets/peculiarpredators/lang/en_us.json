@@ -1,0 +1,26 @@
+{
+  "creativetab.peculiarpredators_tab": "Peculiar Predators",
+
+  "entity.peculiarpredators.troodon": "Troodon",
+  "item.peculiarpredators.troodon_spawn_egg": "Troodon Spawn Egg",
+  "item.peculiarpredators.raw_troodon_drumstick": "Raw Troodon Drumstick",
+  "item.peculiarpredators.cooked_troodon_drumstick": "Cooked Troodon Drumstick",
+  "item.peculiarpredators.troodon_flask": "Troodon DNA Flask",
+  "block.peculiarpredators.troodon_eggs": "Troodon Egg",
+
+
+  "entity.peculiarpredators.yuty": "Yutyrannus",
+  "item.peculiarpredators.yuty_spawn_egg": "Yutyrannus Spawn Egg",
+  "item.peculiarpredators.yuty_flask": "Yutyrannus DNA Flask",
+  "block.peculiarpredators.yuty_egg": "Yutyrannus Egg",
+
+
+  "entity.peculiarpredators.shasta": "Shastasaurus",
+  "entity.peculiarpredators.baby_shasta": "Baby Shastasaurus",
+  "item.peculiarpredators.shasta_embryo": "Shastasaurus Embryo",
+  "item.peculiarpredators.shasta_spawn_egg": "Shastasaurus Spawn Egg",
+  "item.peculiarpredators.shasta_flask": "Shastasaurus DNA Flask",
+  "item.peculiarpredators.raw_shasta_meat": "Raw Shastasaurus Fin",
+  "item.peculiarpredators.cooked_shasta_meat": "Cooked Shastasaurus Fin"
+
+}

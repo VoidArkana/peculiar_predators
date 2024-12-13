@@ -1,0 +1,11 @@
+{
+  "type": "unusualprehistory:cultivator",
+  "ingredients": [
+    {
+      "item": "peculiarpredators:troodon_flask"
+    }
+  ],
+  "output": {
+    "item": "peculiarpredators:troodon_eggs"
+  }
+}

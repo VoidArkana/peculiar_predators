@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "peculiarpredators:raw_shasta_meat"
+  },
+  "result": "peculiarpredators:cooked_shasta_meat",
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "peculiarpredators:raw__shasta_meat"
+  },
+  "result": "peculiarpredators:cooked_shasta_meat",
+  "experience": 0.35,
+  "cookingtime": 200
+}

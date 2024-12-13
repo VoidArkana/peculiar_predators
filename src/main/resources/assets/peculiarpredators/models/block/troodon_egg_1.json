@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "#block",
+		"particle": "#item"
+	},
+	"elements": [
+		{
+			"name": "medium",
+			"from": [6, 0, 7],
+			"to": [9, 4, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [6, 0, 9, 4], "texture": "#0"},
+				"east": {"uv": [6, 4, 9, 8], "texture": "#0"},
+				"south": {"uv": [6, 8, 9, 12], "texture": "#0"},
+				"west": {"uv": [9, 0, 12, 4], "texture": "#0"},
+				"up": {"uv": [3, 13, 0, 10], "texture": "#0"},
+				"down": {"uv": [6, 10, 3, 13], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "eggs",
+			"origin": [7, 0, 7],
+			"color": 0,
+			"children": [
+				{
+					"name": "bigg",
+					"origin": [9, 0, 6],
+					"color": 0,
+					"children": [
+						{
+							"name": "med",
+							"origin": [9, 0, 6],
+							"color": 0,
+							"children": [
+								{
+									"name": "med2",
+									"origin": [9, 0, 6],
+									"color": 0,
+									"children": [
+										{
+											"name": "smol",
+											"origin": [9, 0, 6],
+											"color": 0,
+											"children": []
+										}
+									]
+								},
+								0
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
